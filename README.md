@@ -1,9 +1,3 @@
-- [x] GIT
-- [x] Bootstrap
-     
-- [ ] Bootstrap
-- [ ] Bootstrap
-
 ![My Photo](/images/image.png)
 
 ### Hi everyone :raised_hand_with_fingers_splayed:
@@ -25,7 +19,10 @@
 * Honesty
 * Fast learning
 
-
+#### Some my projects:
+* https://www.uanima.org.ua/
+* https://xn--80ajjgndwe3b1g.xn--p1ai/
+* http://www.coronetenterprises.com/
 
 
 
