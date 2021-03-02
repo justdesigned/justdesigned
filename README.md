@@ -1,3 +1,10 @@
+* [x] GIT
+* [x] * Bootstrap
+* [ ] * dfdsf
+* [ ] * sdfsdffdsf
+* [x] Bootstrap
+* [ ] Bootstrap
+
 ![My Photo](/images/image.png)
 
 ### Hi everyone :raised_hand_with_fingers_splayed:
@@ -13,10 +20,6 @@
 * Bootstrap
 * PHP
 
-* [x] GIT
-* [x] * Bootstrap
-* [x] * Bootstrap
-* [ ] Bootstrap
 
 #### My soft skills:
 * Responsibility
