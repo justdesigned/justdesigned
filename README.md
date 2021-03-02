@@ -1,6 +1,8 @@
+![GitHub Logo](/images/image.jpg)
+Format: ![My Photo](url)
 ### Hi everyone👋
 ## My name is Vasyl
-My tech skills:
+####My tech skills:
 * HTML5
 * CSS3/Sass
 * JavaScript
@@ -10,6 +12,11 @@ My tech skills:
 * jQuery
 * Bootstrap
 * PHP
+
+####My soft skills:
+* Responsibility
+* Honesty
+* Fast learning
 
 
 
