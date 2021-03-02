@@ -1,10 +1,18 @@
-### Hi there 👋
+### Hi everyone👋
+## My name is Vasyl
+My tech skills:
+* HTML5
+* CSS3/Sass
+* JavaScript
+* Gulp/Webpack
+* Vue.js
+* GIT
+* jQuery
+* Bootstrap
+* PHP
 
-<DIV CLASS="foo">
 
-*Markdown*
 
-</DIV>
 <!--
 **justdesigned/justdesigned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
