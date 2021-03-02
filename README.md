@@ -1,6 +1,6 @@
 ![My Photo](/images/image.png)
 
-### Hi everyone :raised_hand_with_fingers_splayed:  `<addr>`
+### Hi everyone :raised_hand_with_fingers_splayed:  `<Hi everyone :raised_hand_with_fingers_splayed:>`
 ## My name is Vasyl
 #### My tech skills:
 * HTML5
