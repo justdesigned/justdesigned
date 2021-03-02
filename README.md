@@ -1,7 +1,7 @@
 ![My Photo](/images/image.png)
 
 ### Hi everyone :raised_hand_with_fingers_splayed:
-## My name is Vasyl | dofhsdfksl,fl;sdf
+## My name is Vasyl
 #### My tech skills:
 * HTML5
 * CSS3/Sass
@@ -17,6 +17,11 @@
 * Responsibility
 * Honesty
 * Fast learning
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 
 
