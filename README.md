@@ -1,9 +1,8 @@
-* [x] GIT
-* [x] * Bootstrap
-      * dfdsf
-      * sdfsdffdsf
-* [x] Bootstrap
-* [ ] Bootstrap
+- [x] GIT
+- [x] Bootstrap
+     
+- [ ] Bootstrap
+- [ ] Bootstrap
 
 ![My Photo](/images/image.png)
 
