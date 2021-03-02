@@ -1,5 +1,5 @@
-![GitHub Logo](/images/image.jpg)
-Format: ![My Photo](url)
+![My Photo](/images/image.jpg)
+
 ### Hi everyone👋
 ## My name is Vasyl
 ####My tech skills:
