@@ -2,7 +2,7 @@
 
 ### Hi everyone👋
 ## My name is Vasyl
-####My tech skills:
+#### My tech skills:
 * HTML5
 * CSS3/Sass
 * JavaScript
@@ -13,7 +13,7 @@
 * Bootstrap
 * PHP
 
-####My soft skills:
+#### My soft skills:
 * Responsibility
 * Honesty
 * Fast learning
