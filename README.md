@@ -1,4 +1,4 @@
-![My Photo](/images/image.jpg)
+![My Photo](/images/image.png)
 
 ### Hi everyone👋
 ## My name is Vasyl
