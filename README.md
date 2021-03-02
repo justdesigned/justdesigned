@@ -1,7 +1,7 @@
 * [x] GIT
 * [x] * Bootstrap
-* [ ] * dfdsf
-* [ ] * sdfsdffdsf
+      * dfdsf
+      * sdfsdffdsf
 * [x] Bootstrap
 * [ ] Bootstrap
 
