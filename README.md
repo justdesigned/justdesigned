@@ -13,6 +13,11 @@
 * Bootstrap
 * PHP
 
+* [x] GIT
+* [x] * Bootstrap
+* [x] * Bootstrap
+* [ ] Bootstrap
+
 #### My soft skills:
 * Responsibility
 * Honesty
