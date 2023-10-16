@@ -4,24 +4,22 @@
 #### My tech skills:
 * HTML5
 * CSS3/Sass
-* JavaScript
-* Gulp/Webpack
-* Vue.js
-* GIT
+* Javascript / Typescript
+* Webpack
+* React
+* Redux/RTK
+* Next.js
+* NX
+* Git
 * jQuery
-* Bootstrap
 * PHP
-
+* Wordpress
 
 #### My soft skills:
 * Responsibility
 * Honesty
 * Fast learning
 
-#### Some my projects:
-* https://www.uanima.org.ua/
-* https://xn--80ajjgndwe3b1g.xn--p1ai/
-* http://www.coronetenterprises.com/
 
 
 
