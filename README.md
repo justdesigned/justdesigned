@@ -2,7 +2,7 @@
 
 **Frontend Engineer \| React, TypeScript, Next.js**
 
-Kyiv, Ukraine · vasiadrevko@gmail.com · +38 063 584 6153\
+Kyiv, Ukraine
 LinkedIn: linkedin.com/in/vasyl-drevko
 
 ## PROFESSIONAL SUMMARY
