@@ -2,7 +2,7 @@
 
 **Frontend Engineer \| React, TypeScript, Next.js**
 
-Kyiv, Ukraine
+Kyiv, Ukraine\
 LinkedIn: linkedin.com/in/vasyl-drevko
 
 ## PROFESSIONAL SUMMARY
